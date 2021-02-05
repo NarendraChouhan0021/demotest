@@ -105,7 +105,6 @@ class NewDish extends Component {
                         <TextField
                             label="Name"
                             id="margin-none"
-                            // defaultValue=""
                             helperText="name of ingredient"
                             name="ingredienName"
                             value={ingredienName}
